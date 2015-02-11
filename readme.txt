@@ -1,7 +1,7 @@
 === Easy Store Locator ===
 Contributors: priyanshu.mittal,a.ankit
 Donate link: http://www.webriti.com/
-Tags: instagram, instagram page, instagram feed, instagram photos,custom instagram feed,mobile instagram,
+Tags: store locator,address location map,google map,location on google map,google store,google store locator,google maps
 Requires at least: 3.3+
 Tested up to: 4.0
 Stable tag: 0.1
@@ -16,7 +16,6 @@ Easy Store Locator allow you to mark store locations on the google map and with 
 
 Give **Easy Store Locator** a try. We are sure you will like it. 
 
-In case you face any problem, contact us via the [Forums](http://wordpress.org/support/plugin/easy-store-locator).
 
 = How to add location in the google map? =
 
